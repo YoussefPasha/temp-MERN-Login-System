@@ -14,8 +14,8 @@ config.js
 ```
 export default {
     JWT_SECRET : "<secret>",
-    EMAIL: "steve.franecki@ethereal.email", // testing email & password
-    PASSWORD : "sMf46xCzrvdrxvuagc",
+    EMAIL: "john.doe@admin.email", // testing email & password
+    PASSWORD : "pass123",
     ATLAS_URI: "<MONGODB_ATLAS_URI>"
 }
 ```
